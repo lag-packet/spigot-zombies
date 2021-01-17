@@ -1,0 +1,10 @@
+main: me.idiom.zombies.ZombiesPlugin
+name: Zombies
+version: 0.1
+author: Idiom
+api-version: 1.16
+commands:
+  zombies:
+    usage:
+    aliases:
+    description: Zombies dev commands
