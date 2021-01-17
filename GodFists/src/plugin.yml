@@ -1,9 +1,0 @@
-name: GodFists
-main: me.idiom.godfists.GodFists
-version: 1.0 [Beta]
-api-version: 1.15
-commands:
-  godfists:
-    usage: /<command> <args> [opt args]
-    aliases: [gfs]
-    description: God Fists command!
